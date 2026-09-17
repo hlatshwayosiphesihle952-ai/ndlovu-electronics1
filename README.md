@@ -85,4 +85,15 @@ Tracking changes, fixes, and improvements to the website:
 
 1. Author Surname, Initial. (Year). *Title of program/source code*. URL/Publisher.
 2. Framework/Library Name. (Year). *Documentation Title*. URL.
+3. W3Schools, n.d. HTML Tutorial. Available at: https://www.w3schools.com/html/ (Accessed: 17 September 2026).
+
+W3Schools, n.d. CSS Tutorial. Available at: https://www.w3schools.com/css/ (Accessed: 17 September 2026).
+
+W3Schools, n.d. JavaScript Tutorial. Available at: https://www.w3schools.com/js/ (Accessed: 17 September 2026).
+
+W3Schools, n.d. Responsive Web Design Tutorial. Available at: https://www.w3schools.com/css/css_rwd_intro.asp (Accessed: 17 September 2026).
+
+Mozilla Developer Network (MDN), n.d. HTML: HyperText Markup Language. Available at: https://developer.mozilla.org/en-US/docs/Web/HTML (Accessed: 17 September 2026).
+
+Mozilla Developer Network (MDN), n.d. CSS: Cascading Style Sheets. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS (Accessed: 17 September 2026).
 
